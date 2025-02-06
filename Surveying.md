@@ -19,7 +19,10 @@ Surveying is generally carried out to fulfill one or more of the following objec
   ### Basic Principles of Surveying
   The principles of surveying are given below:
   #### 1. Working from whole to part
-  this principle 
+  Accordingto the principle of working from whaol to part a surveyor must first establish a large framework of control points with high accuracy and then fill in details with less precise measurements. the overall layout is first surveyed for establishment of control points before focusing in the small details. this helps
+  -to prevent the accumulation of errors.
+  -to localize the errors within a small area.
+  -to establish sufficent number of points of high accuracy throughout the area 
   #### 2. Location of a point by measurement from two control point
   #### 3. Independent check
   #### 4. Consistecy
