@@ -16,6 +16,19 @@ Surveying is generally carried out to fulfill one or more of the following objec
 - To setout field parameters at site for further enfineering works.
 - To prepare map showing the details of the engineering works to be constructed at a particular location.
 
+  ### Basic Principles of Surveying
+  The principles of surveying are given below:
+  #### 1. Working from whole to part
+  this principle 
+  #### 2. Location of a point by measurement from two control point
+  #### 3. Independent check
+  #### 4. Consistecy
+  #### 5. Economy of accuracy
+  #### 6. Safeguarding
+  #### 7. Scientific honesty
+
+  
+
 
 
 
